@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏝️ I’m currently living in Thailand:
-   - 🌊 practising kitesuring and
+   - 🌊 practising kitesurfing and
    - 🧘‍♂️ middle-path meditation
 - 🌱 However I'm always open for meaningful and worth-working-for projects
 
