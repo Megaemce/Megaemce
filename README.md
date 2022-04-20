@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on rewriting my repos to TypeScript
-- 🌱 I’m currently learning TypeScript/React
-- 👯 I’m looking to collaborate on meaningful and worth-working-on projects
+- 🏝️ I’m currently living in Thailand:
+   - 🌊 practising kitesuring and
+   - 🧘‍♂️ middle-path meditation
+- 🌱 However I'm always open for meaningful and worth-working-for projects
 
 ![Profile views](https://gpvc.arturio.dev/Megaemce)  
