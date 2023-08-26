@@ -8,3 +8,7 @@
   - [📈 IQ Converter](https://github.com/Megaemce/IQ-converter) - tool created in 7 days in a middle of the Borneo island/on the ferry to Indonesia.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Megaemce&color=brightgreen&style=flat)  
+
+
+[![GitHub Language Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&langs_count=5&theme=dark#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub Language Stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&langs_count=5&theme=default#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)
+
