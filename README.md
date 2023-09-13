@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏝️ I’m currently traveling around Asia (🇻🇳>🇱🇦>🇰🇭>🇲🇾>🇮🇩>🇹🇭>🇯🇵>🇰🇷)
+- 🏝️ I’m currently traveling around Asia (🇻🇳>🇱🇦>🇰🇭>🇲🇾>🇮🇩>🇹🇭>🇯🇵>🇰🇷>🇵🇼>🇹🇼)
 - 🌱 However I'm always open for meaningful and worth-working-for projects
 - 🧑🏻‍💻 In the meantime (when I have a few hours to burn) I create small and medium funny projects:
   - [correlations.🗺️](https://github.com/Megaemce/correlations.world) - tool created in 2 day in South Korea,
