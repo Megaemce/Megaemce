@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏝️ I currently live in Bali after 1.5 year of travelling
-- 🌱 However I'm always open for meaningful and worth-working-for projects
+- 🌱 I'm always open for meaningful and worth-working-for projects
 - 🧑🏻‍💻 In the meantime (when I have a few hours to burn) I create small and medium funny projects
 
 ![Profile views](https://komarev.com/ghpvc/?username=Megaemce&color=brightgreen&style=flat)  
