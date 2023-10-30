@@ -3,9 +3,11 @@
 - 🌱 I'm always open for meaningful and worth-working-for projects
 - 🧑🏻‍💻 In the meantime (when I have a few hours to burn) I create funny projects or write my first book
 
-![Profile views](https://komarev.com/ghpvc/?username=Megaemce&color=brightgreen&style=flat)  
+### :hammer_and_wrench: My tech stack
 
-### :hammer_and_wrench: My tech stack :
+ <details>
+    <summary>Click to expand</summary>
+    <!-- have to be followed by an empty line! -->
 <table>
 <thead>
   <tr>
@@ -33,7 +35,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     </td>
     <td>
-      <img src="https://3.bp.blogspot.com/-a7jPVdFk9Hw/W_XeTJX6JyI/AAAAAAAAC2c/HCtxP0wSSs0wEMKJOYq7pivEJaSVin92gCLcBGAs/s1600/powershell.png" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/PowerShell/PowerShell/blob/master/assets/Powershell_256.png" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
     </td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
@@ -42,7 +44,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;  
     </td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
@@ -67,16 +69,7 @@
   </tr>
 </tbody>
 </table>
-
-
-
-<br>
-<div>
-  
-  [![GitHub Language Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&layout=compact&langs_count=5&theme=dark#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub Language Stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&layout=compact&langs_count=5&theme=default#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)
-  
-</div>
-
+  </details>
 
 ### 🏗️ My proudest projects:
 
@@ -85,11 +78,11 @@
   <tr>
     <td>
       <a href="https://github.com/Megaemce/mobbler">
-        <img src="https://raw.githubusercontent.com/Megaemce/mobbler/main/img/mobbler_animated_dark.svg" title="Mobbler" alt="Mobbler" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/Megaemce/mobbler/main/img/mobbler_animated_dark.svg" title="Mobbler" alt="Mobbler" height="50"/>&nbsp;
        </a>
     </td>
         <td>
-          <a href="https://github.com/Megaemce/correlations.world"><img src="https://github.com/Megaemce/correlations.world/blob/main/img/logo.png" title="Correlation.world" alt="Correlation.world" height="60"/>&nbsp;</a>          
+          <a href="https://github.com/Megaemce/correlations.world"><img src="https://github.com/Megaemce/correlations.world/blob/main/img/logo.png" title="Correlation.world" alt="Correlation.world" height="70"/>&nbsp;</a>          
     </td>
     <td>
           <a href="https://github.com/Megaemce/TytuScript">
@@ -99,6 +92,16 @@
   </tr>
 </thead>
 </table>
+
+### 🧮 GitHub statistics
+
+![Profile views](https://komarev.com/ghpvc/?username=Megaemce&color=brightgreen&style=flat)  
+
+<div>
+  
+  [![GitHub Language Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&layout=compact&langs_count=5&theme=dark#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub Language Stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&layout=compact&langs_count=5&theme=default#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)
+  
+</div>
 
 
 
