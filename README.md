@@ -62,9 +62,7 @@
        </a>
     </td>
         <td>
-          <a href="https://github.com/Megaemce/correlations.world">
-        <img src="https://github.com/Megaemce/Megaemce/assets/1651451/3e5d95d6-cc37-4ed0-b614-478cd3ee13f1" title="Correlation.world" alt="Correlation.world" height="60"/>&nbsp;
-       </a>          
+          <a href="https://github.com/Megaemce/correlations.world"><img src="https://github.com/Megaemce/correlations.world/blob/main/img/logo.png" title="Correlation.world" alt="Correlation.world" height="60"/>&nbsp;</a>          
     </td>
     <td>
           <a href="https://github.com/Megaemce/TytuScript">
