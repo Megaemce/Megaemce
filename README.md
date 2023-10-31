@@ -1,9 +1,9 @@
-### 👋 Hi there 
+### Hi there 👋
 - 🏝️ I currently live in Bali after 1.5 year of travelling
 - 🌱 I'm always open for meaningful and worth-working-for projects
 - 🧑🏻‍💻 In the meantime (when I have a few hours to burn) I create funny projects or write my first book
 
-### :hammer_and_wrench: My tech stack
+### My tech stack 🛠️
 
  <details>
     <summary>Click to expand</summary>
@@ -71,7 +71,7 @@
 </table>
   </details>
 
-### 🏗️ My proudest projects:
+### My proudest projects 🏗️
 
 <table>
 <thead>
