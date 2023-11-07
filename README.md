@@ -3,11 +3,10 @@
 - 🌱 I'm always open for meaningful and worth-working-for projects
 - 🧑🏻‍💻 In the meantime I create funny projects or write my first book
 
-### 🛠️ My tech stack 
-
  <details>
-    <summary>Click to expand</summary>
+    <summary>My tech stack 🛠️</summary>
     <!-- have to be followed by an empty line! -->
+  <br>
 <table>
 <thead>
   <tr>
@@ -70,9 +69,12 @@
 </tbody>
 </table>
   </details>
-
-### 🏗️ My proudest projects 
-
+ <details>
+    <summary>My projects 🏗️</summary>
+    <!-- have to be followed by an empty line! -->
+  <br>
+Proudest projects 🦚
+ <br/>
 <table>
 <thead>
   <tr>
@@ -97,22 +99,35 @@
   </tr>
 </thead>
 </table>
-
-### 👾 My micro projects
-- [Kapitan Dupa](https://github.com/Megaemce/KapitanDupa) - small web game from Kapitan Bomba's universe
-- [Sounds exercies](https://github.com/Megaemce/Sound-exercises) - hearing training tool for music school exams
-- [Audio knobs](https://github.com/Megaemce/AudioKnobs) - SVG audio knobs with mouse/touch control and dynamic shadows
-- [Oscillator](https://github.com/Megaemce/Oscillator) - WebAPI oscillator recreated using AudioWorkletProcessor
-
-
-### 🧮 GitHub statistics
-<div>
+Micro projects 👾 
+<br/>
+ <ul>
+  <li>
+   <a href="https://github.com/Megaemce/KapitanDupa">Kapitan Dupa</a> - small web game from Kapitan Bomba's universe
+  </li>
+  <li>
+   <a href="https://github.com/Megaemce/Sound-exercises">Sound exercises</a> - hearing training tool for music school exams
+  </li>
+  <li>  
+   <a href="https://github.com/Megaemce/AudioKnobs">Audio Knobs</a> - SVG audio knobs with mouse/touch control and dynamic shadows
+  </li>
+  <li>
+   <a href="https://github.com/Megaemce/Oscillator">Oscillator</a> - WebAPI oscillator recreated using AudioWorkletProcessor
+  </li>
+ </ul>
+  </details>
+<details>
+    <summary>GitHub statistics 🧮 </summary>
+    <!-- have to be followed by an empty line! -->
+    <div>
   
   [![GitHub Language Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&layout=compact&langs_count=5&theme=dark&bg_color=00000000&hide_border=true#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&hide_title=true&theme=dark&bg_color=00000000&hide_border=true&hide_rank=true#gh-dark-mode-only)](https://github.com/Megaemce#gh-dark-mode-only)[![GitHub Language Stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaemce&layout=compact&langs_count=5&theme=default&bg_color=00000000&hide_border=true#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Megaemce&show_icons=true&hide_title=true&theme=default&bg_color=00000000&hide_border=true&hide_rank=true#gh-light-mode-only)](https://github.com/Megaemce#gh-light-mode-only)
   
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Megaemce&color=brightgreen&style=flat)  
+   </details>
+
 
 
 
