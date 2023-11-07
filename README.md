@@ -1,7 +1,8 @@
 Hi there fellow human being 👋
-- 🏝️ I currently live in Bali after 1.5 year of travelling around Asia
-- 🌱 I'm always open for meaningful and worth-working-for projects
-- 🧑🏻‍💻 In the meantime I create funny projects or write my first book
+
+     🏝️ I currently live in Bali after 1.5 year of travelling around Asia
+     🌱 I'm always open for meaningful and worth-working-for projects
+     🧑🏻‍💻 In the meantime I create funny projects or write my first book
 
  <details>
     <summary>My tech stack 🛠️</summary>
