@@ -80,11 +80,13 @@ Proudest projects 🦚
   <tr>
     <td>
       <a href="https://github.com/Megaemce/mobbler">
-        <img src="https://raw.githubusercontent.com/Megaemce/mobbler/main/img/mobbler_animated_dark.svg" title="Mobbler" alt="Mobbler" height="50"/>&nbsp;
+        <img src="https://github.com/Megaemce/mobbler/blob/main/img/mobbler_animated_dark.svg" title="Mobbler" alt="Mobbler" height="50"/>&nbsp;
        </a>
     </td>
         <td>
-          <a href="https://github.com/Megaemce/correlations.world"><img src="https://github.com/Megaemce/correlations.world/blob/main/img/logo.png" title="Correlation.world" alt="Correlation.world" height="65"/>&nbsp;</a>          
+          <a href="https://github.com/Megaemce/correlations.world">
+           <img src="https://github.com/Megaemce/correlations.world/blob/main/img/logo.png" title="Correlation.world" alt="Correlation.world" height="65"/>&nbsp;
+          </a>          
     </td>
        <td>
           <a href="https://github.com/Megaemce/IQ-converter">
