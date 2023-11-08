@@ -1,8 +1,10 @@
 Hi there fellow human being 👋
 
-     🏝️ I currently live in Bali after 1.5 years of traveling around Asia
-     🌱 I'm always open for meaningful and open source projects
-     🧑🏻‍💻 In the meantime I create funny projects or write my first book
+> <sub>पानी की एक बूंद को कभी भी सूखने से कैसे रोका जा सकता है? इसे समुद्र में फेंक दें</sub><br>
+> <sup>How can one prevent a drop of water from ever drying up? By throwing it into the sea</sup>
+- 🏝️ I currently live in Bali after 1.5 years of traveling around Asia
+- 🌱 I'm always open for meaningful and open source projects
+- 🧑🏻‍💻 In the meantime I create funny projects or write my first book
 
  <details>
     <summary>My tech stack 🛠️</summary>
