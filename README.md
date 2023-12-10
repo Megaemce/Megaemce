@@ -75,6 +75,13 @@ ___Hi there fellow human being 👋___
     <summary>My projects 🏗️</summary>
     <!-- have to be followed by an empty line! -->
   <br>
+Currently working on 🚧
+<br>
+<a href="https://github.com/Megaemce/LavaHead">
+        <img src="https://github.com/Megaemce/LavaHead/blob/main/public/lavehead.png" title="LavaHead" alt="LavaHead" height="100" width="300"/>
+</a>
+<br>
+
 Proudest projects 🦚
  <br/>
 <table>
@@ -104,7 +111,8 @@ Proudest projects 🦚
 </thead>
 </table>
 Micro projects 👾 
-<br/>
+
+<br>
  <ul>
   <li>
    <a href="https://github.com/Megaemce/KapitanDupa">Kapitan Dupa</a> - small web game from Kapitan Bomba's universe
