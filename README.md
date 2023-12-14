@@ -77,7 +77,7 @@ ___Hi there fellow human being 👋___
 Currently working on 🚧
 <br>
 <a href="https://github.com/Megaemce/LavaHead">
-        <img src="https://github.com/Megaemce/LavaHead/blob/main/public/lavehead.png" title="LavaHead" alt="LavaHead" height="100" width="300"/>
+        <img src="https://github.com/Megaemce/LavaHead/blob/main/public/lavahead.png" title="LavaHead" alt="LavaHead" height="100" width="300"/>
 </a>
 <br>
 
