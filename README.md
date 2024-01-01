@@ -87,7 +87,6 @@
       </picture> 
     </td>
     <td align="center">
-      </picture> 
       <picture>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
       </picture> 
@@ -99,7 +98,7 @@
       </picture> 
     </td>
     <td align="center">
-    <picture>
+      <picture>
         <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>
       </picture> 
       <picture>
