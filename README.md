@@ -1,6 +1,7 @@
 **_Hi there fellow human being 👋_**
 
-> <sub>पानी की एक बूंद को कभी भी सूखने से कैसे रोका जा सकता है? इसे समुद्र में फेंक दें</sub><br> > <sup>How can one prevent a drop of water from ever drying up? By throwing it into the sea</sup>
+> <sub>पानी की एक बूंद को कभी भी सूखने से कैसे रोका जा सकता है? इसे समुद्र में फेंक दें</sub><br>
+> <sup>How can one prevent a drop of water from ever drying up? By throwing it into the sea</sup>
 
 -   🏝️ I currently live in Indonesia after 1.5 years of traveling around Asia
 -   🌱 I'm always open for meaningful and open source projects
