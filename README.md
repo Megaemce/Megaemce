@@ -81,6 +81,12 @@ Currently working on 🚧
 <a href="https://github.com/Megaemce/LavaHead">
         <img src="https://github.com/Megaemce/LavaHead/blob/main/public/lavahead.png" title="LavaHead" alt="LavaHead" height="100" width="300"/>
 </a>
+<a href="https://github.com/Megaemce/Shan_Shui">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_dark.png">
+  <img alt="Shan Shui logo" src="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_light.png" width="100" height="100">
+</picture>
+</a>
 <br>
 
 Proudest projects 🦚
