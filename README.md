@@ -15,7 +15,7 @@
 <thead>
   <tr>
     <th colspan="2">Languages</th>
-    <th colspan="7">Tools</th>
+    <th colspan="8">Tools</th>
   </tr>
 </thead>
 <tbody>
