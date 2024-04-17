@@ -130,7 +130,14 @@ Proudest projects 🦚
 Micro projects 👾
 
 <br>
+
  <ul>
+  <li>
+   <a href="https://github.com/Megaemce/AnnoyScript">AnnoyScript</a> - my personal blog about annoyance of JS/TS
+  </li>
+  <li>
+   <a href="https://github.com/Megaemce/Bonfire">Bonfire</a> - CSS-only realistic bonfire
+  </li>
   <li>
    <a href="https://github.com/Megaemce/KapitanDupa">Kapitan Dupa</a> - small web game from Kapitan Bomba's universe
   </li>
