@@ -88,8 +88,8 @@ Currently working on 🚧
   <br>
   <a href="https://github.com/Megaemce/Shan_Shui">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_dark.png">
-  <img alt="Shan Shui logo" src="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_light.png" width="100" height="100">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_light.png">
+  <img alt="Shan Shui logo" src="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_dark.png" width="100" height="100">
 </picture>
 </a>
 <a href="https://github.com/Megaemce/LavaHead">
