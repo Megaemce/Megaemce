@@ -86,15 +86,10 @@ Currently working on 🚧
 <br>
  <div>
   <br>
-  <a href="https://github.com/Megaemce/Shan_Shui">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_light.png">
-  <img alt="Shan Shui logo" src="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_dark.png" width="100" height="100">
-</picture>
-</a>
-<a href="https://github.com/Megaemce/LavaHead">
+  <img src="https://github.com/Megaemce/exit.root/blob/main/public/img/exit.root.png" title="exit.root" alt="exit.root" height="100" width="100"/>
+<!-- <a href="https://github.com/Megaemce/LavaHead">
         <img src="https://github.com/Megaemce/LavaHead/blob/main/public/lavahead.png" title="LavaHead" alt="LavaHead" height="100" width="300"/>
-</a>
+</a> -->
  </div>
 <br>
 
@@ -104,6 +99,14 @@ Proudest projects 🦚
 <table>
 <thead>
   <tr>
+   <td>
+    <a href="https://github.com/Megaemce/Shan_Shui">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_light.png">
+        <img alt="Shan Shui logo" src="https://github.com/Megaemce/shan_shui/blob/main/public/img/shanshui_logo_dark.png" width="70" height="70">
+      </picture>
+     </a>
+   </td>
     <td>
       <a href="https://github.com/Megaemce/mobbler">
         <img src="https://github.com/Megaemce/mobbler/blob/main/img/mobbler_animated_dark.svg" title="Mobbler" alt="Mobbler" height="50" width="100"/>
