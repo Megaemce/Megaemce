@@ -86,7 +86,7 @@ Currently working on 🚧
 <br>
  <div>
   <br>
-  <img src="https://github.com/Megaemce/exit.root/blob/main/public/img/exit.root.png" title="exit.root" alt="exit.root" height="100" width="100"/>
+  <img src="https://github.com/Megaemce/Megaemce/assets/1651451/b11dfff3-70ae-4c2f-b3d6-ca3e46ddeaa2" title="exit.root" alt="exit.root" height="100" width="100"/>
 <!-- <a href="https://github.com/Megaemce/LavaHead">
         <img src="https://github.com/Megaemce/LavaHead/blob/main/public/lavahead.png" title="LavaHead" alt="LavaHead" height="100" width="300"/>
 </a> -->
