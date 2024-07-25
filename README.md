@@ -6,7 +6,7 @@
 -   🏝️ I currently live in Indonesia after 1.5 years of traveling around Asia
 -   🌱 I'm always open for meaningful and open source projects
 -   🧑🏻‍💻 In the meantime I create funny/artistic projects or write my first book/[blog](https://annoyscript.vercel.app/)
--   💪 Focusing now to create and deliver my first healthcare startup 
+-   💪 Focusing now on my first healthcare startup: [psyche.guide](https://psyche.guide) 
 
  <details>
     <summary>My tech stack 🛠️</summary>
@@ -50,6 +50,7 @@
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="30" height="30"/>  
+      <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Express" alt="Express" width="30" height="30"/>  
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>
@@ -97,7 +98,24 @@ Currently working on 🚧
 Proudest projects 🦚
 <br/>
 
-<table>
+ <ul>
+  <li>
+   <a href="https://github.com/Megaemce/Shan_Shui">Shan Shui</a> - Infinite Shan Shui vector art generator
+  </li>
+  <li>
+   <a href="https://github.com/Megaemce/mobbler">mobbler</a> - Analog music creation and realtime visual performance
+  </li>
+  <li>
+   <a href="https://github.com/Megaemce/correlations.world">correlations.world</a> - Correlations between various world data
+  </li>
+  <li>
+   <a href="https://github.com/Megaemce/IQ-converter">IQ converter</a> - Interactive IQ test score converter
+  </li>
+  <li>  
+   <a href="https://github.com/Megaemce/TytuScript">TytuScript</a> - Kapitan Bomba's characters playground written in TypeScript
+  </li>
+ </ul>
+<!-- <table>
 <thead>
   <tr>
    <td>
@@ -130,10 +148,11 @@ Proudest projects 🦚
     </td>
   </tr>
 </thead>
-</table>
-Micro projects 👾
+</table> -->
 
-<br>
+
+Micro projects 👾
+<br/>
 
  <ul>
   <li>
@@ -155,6 +174,8 @@ Micro projects 👾
    <a href="https://github.com/Megaemce/Oscillator">Oscillator</a> - WebAPI oscillator recreated using AudioWorkletProcessor
   </li>
  </ul>
+   <br>
+
   </details>
 <details>
     <summary>GitHub statistics 🧮 </summary>
