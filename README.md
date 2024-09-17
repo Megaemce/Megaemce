@@ -106,7 +106,7 @@ Proudest projects 🦚
    <a href="https://github.com/Megaemce/mobbler">mobbler</a> - Analog music creation and realtime visual performance
   </li>
   <li>
-   <a href="https://github.com/Megaemce/correlations.world">correlations.world</a> - Correlations between various world data
+   <a href="https://github.com/Megaemce/correlations.world">correlation.world</a> - Correlations between various world data
   </li>
   <li>
    <a href="https://github.com/Megaemce/IQ-converter">IQ converter</a> - Interactive IQ test score converter
