@@ -6,7 +6,7 @@
 -   🏝️ I currently live in Indonesia after 1.5 years of traveling around Asia
 -   🌱 I'm always open for meaningful and open source projects
 -   🧑🏻‍💻 In the meantime I create funny/artistic projects or write my first book/[blog](https://annoyscript.vercel.app/)
--   💪 Focusing now on my first healthcare startup: [psyche.guide](https://psyche.guide) 
+-   💪 Focusing now on my healthcare startup: [psyche.guide](https://psyche.guide) 
 
  <details>
     <summary>My tech stack 🛠️</summary>
